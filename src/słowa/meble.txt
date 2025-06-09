@@ -1,0 +1,10 @@
+krzesło
+stół
+łóżko
+szafa
+biurko
+regał
+kanapa
+fotel
+lustro
+komoda

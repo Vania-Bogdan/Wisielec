@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Databases
+players.db
+
+# IDE
+.idea/
+
+# PDF files
+*.pdf

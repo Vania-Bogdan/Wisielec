@@ -1,0 +1,10 @@
+czerwony
+niebieski
+zielony
+żółty
+czarny
+biały
+pomarańczowy
+różowy
+brązowy
+szary

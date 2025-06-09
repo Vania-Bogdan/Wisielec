@@ -1,0 +1,10 @@
+nauczyciel
+lekarz
+prawnik
+mechanik
+kucharz
+strażak
+policjant
+aktor
+muzyk
+informatyk
